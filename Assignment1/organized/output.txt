@@ -1,0 +1,11 @@
+entertainment
+output.txt
+recipes
+sports
+technology
+travel
+entertainment1.txt
+recipe1.txt
+sports1.txt
+technology1.txt
+travel1.txt
